@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+* {
+  font-family: 'Josefin Sans'
+}
+
 .App {
   min-height: 100vh;
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
